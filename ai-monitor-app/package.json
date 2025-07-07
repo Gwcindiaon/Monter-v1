@@ -1,14 +1,52 @@
 {
   "name": "ai-monitor-app",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "ai-monitor-app",
+      "version": "1.0.0",
+      "dependencies": {
+        "next": "13.4.12",
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+      }
+    },
+    "node_modules/next": {
+      "version": "13.4.12",
+      "resolved": "https://registry.npmjs.org/next/-/next-13.4.12.tgz",
+      "integrity": "sha512-xxxxx",
+      "engines": {
+        "node": ">=12.22.0"
+      }
+    },
+    "node_modules/react": {
+      "version": "18.2.0",
+      "resolved": "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
+      "integrity": "sha512-xxxxx"
+    },
+    "node_modules/react-dom": {
+      "version": "18.2.0",
+      "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz",
+      "integrity": "sha512-xxxxx"
+    }
   },
   "dependencies": {
-    "next": "13.4.12",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": {
+      "version": "13.4.12",
+      "resolved": "https://registry.npmjs.org/next/-/next-13.4.12.tgz",
+      "integrity": "sha512-xxxxx"
+    },
+    "react": {
+      "version": "18.2.0",
+      "resolved": "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
+      "integrity": "sha512-xxxxx"
+    },
+    "react-dom": {
+      "version": "18.2.0",
+      "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz",
+      "integrity": "sha512-xxxxx"
+    }
   }
 }
